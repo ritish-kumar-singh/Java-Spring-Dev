@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="Maven Projects/SpringBootMavenApp/src/main/java/|Gradle Projects/app/src/main/java/|Maven Projects/JavaApp/src/test/java/|SpringBoot Gradle/SpringBootGradleApp/src/main/java/|Maven Projects/MavenDemoApp/src/main/java/|Gradle Projects/app/src/test/java/|Maven Projects/telusko-app/src/test/java/|SpringBoot Gradle/SpringBootGradleApp/src/test/java/|Maven Projects/SpringBootMavenApp/src/test/java/|Maven Projects/JavaApp/src/main/java/|Maven Projects/telusko-app/src/main/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="Gradle Projects/app/src/main/java"/>
+	<classpathentry kind="src" path="Gradle Projects/app/src/test/java"/>
+	<classpathentry kind="src" path="Maven Projects/JavaApp/src/main/java"/>
+	<classpathentry kind="src" path="Maven Projects/JavaApp/src/test/java"/>
+	<classpathentry kind="src" path="Maven Projects/MavenDemoApp/src/main/java"/>
+	<classpathentry kind="src" path="Maven Projects/SpringBootMavenApp/src/main/java"/>
+	<classpathentry kind="src" path="Maven Projects/SpringBootMavenApp/src/test/java"/>
+	<classpathentry kind="src" path="Maven Projects/telusko-app/src/main/java"/>
+	<classpathentry kind="src" path="Maven Projects/telusko-app/src/test/java"/>
+	<classpathentry kind="src" path="SpringBoot Gradle/SpringBootGradleApp/src/main/java"/>
+	<classpathentry kind="src" path="SpringBoot Gradle/SpringBootGradleApp/src/test/java"/>
+	<classpathentry kind="output" path="Gradle Projects/app/build/classes/java/main"/>
+</classpath>
